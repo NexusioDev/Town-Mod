@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1ok3pQU29nVb160Qs0iA3bEm/48BMApzIira2Lx78yLZ0kqwTQ1Sz4T0v7/uGB+VAuCSjWJoxZ2cjagXQGWpqg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Andrew\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TownModDE\\TownModDE.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Andrew\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}
